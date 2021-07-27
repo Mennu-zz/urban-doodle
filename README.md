@@ -4,6 +4,7 @@ In the project directory, you can run:
 
 ### Docker Start
   docker compose up
+  
   Open http://localhost/
 
 ### `npm start`
